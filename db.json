@@ -1,5 +1,13 @@
 {
-  "users": [],
+  "users": [
+    {
+      "id": 1,
+      "username":"Bob",
+      "avatar": "https://th.bing.com/th/id/OIP.Uo81CoJ1d7-M93o3mhGNQwHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "email": "bob@gmail.com",
+      "password": "12345"
+    }
+  ],
   "blogs": [
     {
       "id": 1,
