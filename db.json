@@ -6,6 +6,13 @@
       "avatar": "https://th.bing.com/th/id/OIP.Uo81CoJ1d7-M93o3mhGNQwHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7",
       "email": "bob@gmail.com",
       "password": "12345"
+    },
+    {
+      "id": 1,
+      "username":"shalini",
+      "avatar": "https://th.bing.com/th/id/OIP.Uo81CoJ1d7-M93o3mhGNQwHaHa?w=203&h=203&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "email": "shalini@gmail.com",
+      "password": "34596"
     }
   ],
   "blogs": [
@@ -16,6 +23,32 @@
       "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
       "category": "Entertainment",
       "date": "2017-06-01",
+      "likes": 24,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Tech",
+      "date": "2017-01-05",
+      "likes": 24,
+      "comments": [
+        { "username": "Jane", "content": "Good One" },
+        { "username": "Bob", "content": "Loved It!" }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "coreyschafer",
+      "title": "Be Present",
+      "content": "Turning away from the ledge, he started slowly down the mountain, deciding that he would, that very night, satisfy his curiosity about the man-house. In the meantime, he would go down into the canyon and get a cool drink, after which he would visit some berry patches just over the ridge, and explore among the foothills a bit before his nap-time, which always came just after the sun had walked past the middle of the sky. At that period of the day the sun’s warm rays seemed to cast a sleepy spell over the silent mountainside, so all of the animals, with one accord, had decided it should be the hour for their mid-day sleep.",
+      "category": "Business",
+      "date": "2017-09-10",
       "likes": 24,
       "comments": [
         { "username": "Jane", "content": "Good One" },
